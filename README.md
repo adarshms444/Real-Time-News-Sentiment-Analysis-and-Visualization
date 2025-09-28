@@ -35,7 +35,7 @@ The pipeline is designed in **three stages**:
    - Ngrok exposes the server for sharing  
 
 ### 🔎 Architecture Diagram
-![Project Architecture](f0ccda5a-304a-4c6e-8115-28b8f5e8427b.png)
+![Project Architecture](https://github.com/adarshms444/Real-Time-News-Sentiment-Analysis-and-Visualization/blob/main/architecture.png)
 
 ---
 
@@ -64,5 +64,5 @@ The pipeline is designed in **three stages**:
 
 ### 2. Clone Repository
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/adarshms444/Real-Time-News-Sentiment-Analysis-and-Visualization/tree/main>
 cd <repository-directory>
