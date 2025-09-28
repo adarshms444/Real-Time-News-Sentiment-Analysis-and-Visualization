@@ -58,11 +58,21 @@ The pipeline is designed in **three stages**:
 
 ## ⚙️ Setup & Installation
 
+## ⚙️ Setup & Installation
+
 ### 1. Prerequisites
 - Python 3.8+  
 - Java 8+ (required for PySpark)  
 
-### 2. Clone Repository
-```bash
+---
+
+### 2. Configure API Keys and Clone Repository
+Open your **main script** (e.g., `app.py` or `main.py`) and replace the placeholder values with your actual keys:
+
+```python
+# Replace these with your actual keys
+NEWS_API_KEY = "YOUR_NEWS_API_KEY_HERE"
+NGROK_AUTH_TOKEN = "YOUR_NGROK_AUTH_TOKEN_HERE"
+
 git clone <https://github.com/adarshms444/Real-Time-News-Sentiment-Analysis-and-Visualization/tree/main>
 cd <repository-directory>
